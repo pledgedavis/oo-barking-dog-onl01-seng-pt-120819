@@ -7,7 +7,7 @@ class Dog
   
   # fido.name = "Fido"
     def initialize
-  #   @name     = name
+    @name     = name
   #   @artist   = artist
   #   @duration = duration
   end
