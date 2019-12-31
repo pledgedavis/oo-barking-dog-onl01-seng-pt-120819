@@ -6,11 +6,6 @@ class Dog
   # fido = Dog.new
   
   # fido.name = "Fido"
-    def initialize
-    @name     = name
-  #   @artist   = artist
-  #   @duration = duration
-  end
   
   
   def name=(the_dog_name)
