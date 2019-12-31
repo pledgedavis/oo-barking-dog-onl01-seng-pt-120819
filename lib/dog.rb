@@ -6,8 +6,7 @@ class Dog
   # fido = Dog.new
   
   # fido.name = "Fido"
-  def initialize
-  
+ 
 end
 
 # def  fido(name)
