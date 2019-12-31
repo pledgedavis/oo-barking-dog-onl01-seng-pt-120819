@@ -2,7 +2,7 @@
 
 class Dog
   
-  fido = Dog.new
+  fido = Dog.name
   # fido = Dog.new
   
   # fido.name = "Fido"
