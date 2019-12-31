@@ -6,8 +6,8 @@ class Dog
   # fido = Dog.new
   
   # fido.name = "Fido"
-  def initialize
-    @name = the_dog_name
+  def initialize(the_dog_name)
+    @the_dog_name = the_dog_name
   
 #   def name=(the_dog_name)
 #     dog_name = the_dog_name
