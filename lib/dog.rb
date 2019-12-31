@@ -10,7 +10,7 @@ class Dog
     @dogs_name
   end
   def bark
-    puts "bark"
+    puts "woof!"
   
 # fido = Dog.name
   # fido = Dog.new
